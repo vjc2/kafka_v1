@@ -1,6 +1,6 @@
 module github.com/crossplane-contrib/provider-jet-kafka
 
-go 1.19
+go 1.18
 
 require (
 	github.com/crossplane/crossplane-runtime v0.15.1-0.20220315141414-988c9ba9c255
